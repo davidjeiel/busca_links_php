@@ -26,7 +26,7 @@ git clone https://github.com/davidjeiel/busca_links_php.git
 
 Em seguida, você pode acessar a pasta do projeto e executar 
 ```bash
-php buscar-cursos.php
+php buscar.php
 ```
 
 Você pode digitar uma URL válida e clicar enter. O projeto irá buscar os links da página informada e exibir em tela. 
